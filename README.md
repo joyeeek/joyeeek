@@ -1,4 +1,5 @@
-### Joy:heart:
+![header](https://capsule-render.vercel.app/api?type=soft&color=F4BBBB&height=100&section=header&text=Joy💕&fontSize=30&animation=twinkling)
+<br><br> 
 Hello World! <br> 
 I'm Joy, a web programming developer:computer: <br>
 I'm trying to grow into a competent developer.
