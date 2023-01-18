@@ -1,8 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=FABBBB&height=120&section=header&text=Joy💕&fontSize=30&animation=twinkling)
-<br><br> 
-&nbsp; Hello World! <br> 
-&nbsp; I'm Joy, a web programming developer:computer: <br>
-&nbsp; I'm trying to grow into a competent developer.
 <br><br>
 
 <h3>&nbsp; :books: stack</h3>
